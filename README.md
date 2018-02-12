@@ -9,4 +9,4 @@ If a file is changed on the mounted file system, RevisionFS will create a copy b
 You can list the saved revisions of a file with show_revisions.py and change the revision settings with chrev.py.
 The default is to store a maximum of 10 old revisions of a file up to a maximum age of 185 days, but at least one revision, even if it is older.
 
-An automatic purge of stored revisions that are getting old is not implemented right now (will follow soon).
+An automatic purge of stored revisions that are getting old is not implemented right now (will maybe follow later).
