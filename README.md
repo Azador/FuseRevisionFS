@@ -1,4 +1,7 @@
 # FuseRevisionFS
+
+No longer maintained here. Moved to https://gitlab.com/Azador/FuseRevisionFS
+
 A FUSE file system that adds revision support for your files
 
 You will need fusepy https://github.com/terencehonles/fusepy and Python 3
